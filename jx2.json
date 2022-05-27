@@ -1,8 +1,8 @@
 {
 	"sites": [
 		{
-			"key": "ÌÚÑ¶Ö±²É(¹ÙÔ´)",
-			"name": "ÌÚÑ¶Ö±²É(¹ÙÔ´)",
+			"key": "è…¾è®¯ç›´é‡‡(å®˜æº)",
+			"name": "è…¾è®¯ç›´é‡‡(å®˜æº)",
 			"type": 1,
 			"api": "https://wabc.ml/mao/1.php/provide/vod/",
 			"searchable": 1,
@@ -11,7 +11,7 @@
 		},
 		{
 			"key": "360_spider",
-			"name": "360Ó°Ôº(¹ÙÔ´)",
+			"name": "360å½±é™¢(å®˜æº)",
 			"type": 3,
 			"api": "csp_YS360",
 			"searchable": 1,
@@ -21,7 +21,7 @@
 		},
 		{
 			"key": "2345_spider",
-			"name": "2345Ó°Ôº(¹ÙÔ´)",
+			"name": "2345å½±é™¢(å®˜æº)",
 			"type": 3,
 			"api": "csp_YS2345",
 			"searchable": 1,
@@ -31,7 +31,7 @@
 		},
 		{
 			"key": "sogou_spider",
-			"name": "ËÑ¹·Ó°Ôº(¹ÙÔ´)",
+			"name": "æœç‹—å½±é™¢(å®˜æº)",
 			"type": 3,
 			"api": "csp_YSSogou",
 			"searchable": 1,
@@ -41,7 +41,7 @@
 		},
 		{
 			"key": "77_spider",
-			"name": "ÆßÆß(SP)",
+			"name": "ä¸ƒä¸ƒ(SP)",
 			"type": 3,
 			"api": "csp_Kunyu77",
 			"searchable": 1,
@@ -50,7 +50,7 @@
 		},
 		{
 			"key": "ikan_spider",
-			"name": "°®¿´(SP)",
+			"name": "çˆ±çœ‹(SP)",
 			"type": 3,
 			"api": "csp_IKan",
 			"searchable": 1,
@@ -69,7 +69,7 @@
 		},
 		{
 			"key": "csp_xpath_zbkyy",
-			"name": "Õæ²»¿¨",
+			"name": "çœŸä¸å¡",
 			"type": 3,
 			"api": "csp_XPath",
 			"searchable": 1,
@@ -78,8 +78,8 @@
 			"ext": "https://yiuyiu1.coding.net/p/yiuyiu/d/yyyy/git/raw/master/xpath/zhenbuka.json"
 		},
 		{
-			"key": "csp_xpath_É§»ğÓ°ÊÓ",
-			"name": "É§»ğÓ°ÊÓ",
+			"key": "csp_xpath_éªšç«å½±è§†",
+			"name": "éªšç«å½±è§†",
 			"type": 3,
 			"api": "csp_XPath",
 			"searchable": 1,
@@ -89,7 +89,7 @@
 		},
 		{
 			"key": "csp_xpath_zxzj",
-			"name": "ÔÚÏßÖ®¼Ò",
+			"name": "åœ¨çº¿ä¹‹å®¶",
 			"type": 3,
 			"api": "csp_XPathMacFilter",
 			"searchable": 1,
@@ -99,7 +99,7 @@
 		},
 		{
 			"key": "csp_xpath_xiaoxiong",
-			"name": "Ğ¡ĞÜÓ°ÊÓ",
+			"name": "å°ç†Šå½±è§†",
 			"type": 3,
 			"api": "csp_XPathFilter",
 			"searchable": 1,
@@ -109,7 +109,7 @@
 		},
 		{
 			"key": "csp_xpath_2BT",
-			"name": "Á½¸öBT",
+			"name": "ä¸¤ä¸ªBT",
 			"type": 3,
 			"api": "csp_XPathFilter",
 			"searchable": 0,
@@ -119,7 +119,7 @@
 		},
 		{
 			"key": "csp_xpath_czspp",
-			"name": "³§³¤×ÊÔ´",
+			"name": "å‚é•¿èµ„æº",
 			"type": 3,
 			"api": "csp_XPath",
 			"searchable": 1,
@@ -128,8 +128,8 @@
 			"ext": "https://yiuyiu1.coding.net/p/yiuyiu/d/yyyy/git/raw/master/xpath/czspp.json"
 		},
 		{
-			"key": "csp_xpath_°®¸Û¾ç",
-			"name": "°®¸Û¾ç",
+			"key": "csp_xpath_çˆ±æ¸¯å‰§",
+			"name": "çˆ±æ¸¯å‰§",
 			"type": 3,
 			"api": "csp_XPathMacFilter",
 			"searchable": 1,
@@ -138,8 +138,8 @@
 			"ext": "https://yiuyiu1.coding.net/p/yiuyiu/d/yyyy/git/raw/master/xpath/2gangju.json"
 		},
 		{
-			"key": "csp_xpath___ÀÖÖíÓ°ÊÓ",
-			"name": "ÀÖÖíÓ°ÊÓ",
+			"key": "csp_xpath___ä¹çŒªå½±è§†",
+			"name": "ä¹çŒªå½±è§†",
 			"type": 3,
 			"api": "csp_XPathMac",
 			"searchable": 1,
@@ -148,8 +148,8 @@
 			"ext": "https://yiuyiu1.coding.net/p/yiuyiu/d/yyyy/git/raw/master/xpath/lezhutv.json"
 		},
 		{
-			"key": "csp_xpath___¼«Æ·Ó°ÊÓ",
-			"name": "¼«Æ·Ó°ÊÓ",
+			"key": "csp_xpath___æå“å½±è§†",
+			"name": "æå“å½±è§†",
 			"type": 3,
 			"api": "csp_XPathMac",
 			"searchable": 1,
@@ -168,8 +168,8 @@
 			"ext": "https://yiuyiu1.coding.net/p/yiuyiu/d/yyyy/git/raw/master/xpath/cokemv.json"
 		},
 		{
-			"key": "csp_xpath_Å©ÃñÓ°ÊÓ",
-			"name": "Å©ÃñÓ°ÊÓ",
+			"key": "csp_xpath_å†œæ°‘å½±è§†",
+			"name": "å†œæ°‘å½±è§†",
 			"type": 3,
 			"api": "csp_XPathFilter",
 			"searchable": 1,
@@ -179,7 +179,7 @@
 		},
 		{
 			"key": "mjxq_spider",
-			"name": "ÃÀ¾çĞÇÇò",
+			"name": "ç¾å‰§æ˜Ÿçƒ",
 			"type": 3,
 			"api": "csp_MjxqApp",
 			"searchable": 1,
@@ -187,8 +187,8 @@
 			"filterable": 1
 		},
 		{
-			"key": "csp_xpath_»¢ÑÀÖ±²¥",
-			"name": "»¢ÑÀÖ±²¥",
+			"key": "csp_xpath_è™ç‰™ç›´æ’­",
+			"name": "è™ç‰™ç›´æ’­",
 			"type": 3,
 			"api": "csp_XPath",
 			"searchable": 1,
@@ -197,8 +197,8 @@
 			"ext": "https://yiuyiu1.coding.net/p/yiuyiu/d/yyyy/git/raw/master/xpath/huya.json"
 		},
 		{
-			"key": "½­±±²É¼¯",
-			"name": "½­±±£¨²É¼¯£©",
+			"key": "æ±ŸåŒ—é‡‡é›†",
+			"name": "æ±ŸåŒ—ï¼ˆé‡‡é›†ï¼‰",
 			"type": 0,
 			"api": "https://gfzycj.hnmj.vip/api.php/provide/vod/at/xml",
 			"searchable": 1,
@@ -206,100 +206,100 @@
 			"filterable": 0
 		},
 		{
-			"key": "×ÊÔ´²É¼¯",
-			"name": "×ÊÔ´£¨²É¼¯£©",
+			"key": "èµ„æºé‡‡é›†",
+			"name": "èµ„æºï¼ˆé‡‡é›†ï¼‰",
 			"type": 0,
 			"api": "http://www.zycaiji.net:7788/api.php/provide/vod/at/xml/",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
 			"categories": [
-				"¹ú²ú¾ç",
-				"¸ÛÌ¨¾ç",
-				"ÈÕº«¾ç",
-				"Å·ÃÀ¾ç",
-				"¾ªã¤Æ¬",
-				"×ÛÒÕ",
-				"¶¯Âş",
-				"¶¯×÷Æ¬",
-				"Ï²¾çÆ¬",
-				"°®ÇéÆ¬",
-				"¿Æ»ÃÆ¬",
-				"¿Ö²ÀÆ¬",
-				"¾çÇéÆ¬",
-				"Õ½ÕùÆ¬",
-				"¼ÍÂ¼Æ¬",
-				"·¸×ïÆ¬",
-				"Ã°ÏÕÆ¬",
-				"ĞüÒÉÆ¬",
-				"Ææ»ÃÆ¬",
-				"¶¯»­Æ¬",
-				"·¬¾ç£¨BÕ¾×¨ÓÃ£©",
-				"¹ú´´£¨BÕ¾×¨ÓÃ£©",
-				"µçÓ°£¨BÕ¾×¨ÓÃ£©",
-				"µçÊÓ¾ç£¨BÕ¾×¨ÓÃ£©"
+				"å›½äº§å‰§",
+				"æ¸¯å°å‰§",
+				"æ—¥éŸ©å‰§",
+				"æ¬§ç¾å‰§",
+				"æƒŠæ‚šç‰‡",
+				"ç»¼è‰º",
+				"åŠ¨æ¼«",
+				"åŠ¨ä½œç‰‡",
+				"å–œå‰§ç‰‡",
+				"çˆ±æƒ…ç‰‡",
+				"ç§‘å¹»ç‰‡",
+				"ææ€–ç‰‡",
+				"å‰§æƒ…ç‰‡",
+				"æˆ˜äº‰ç‰‡",
+				"çºªå½•ç‰‡",
+				"çŠ¯ç½ªç‰‡",
+				"å†’é™©ç‰‡",
+				"æ‚¬ç–‘ç‰‡",
+				"å¥‡å¹»ç‰‡",
+				"åŠ¨ç”»ç‰‡",
+				"ç•ªå‰§ï¼ˆBç«™ä¸“ç”¨ï¼‰",
+				"å›½åˆ›ï¼ˆBç«™ä¸“ç”¨ï¼‰",
+				"ç”µå½±ï¼ˆBç«™ä¸“ç”¨ï¼‰",
+				"ç”µè§†å‰§ï¼ˆBç«™ä¸“ç”¨ï¼‰"
 			]
 		},
 		{
 			"key": "csp_xml_gc",
-			"name": "ÅµÑµ£¨²É¼¯£©",
+			"name": "è¯ºè®­ï¼ˆé‡‡é›†ï¼‰",
 			"type": 1,
 			"api": "http://caiji.nxflv.com/api.php/provide/vod/?ac=list",
-			"playUrl": "parse:×Ô¶¯½âÎö",
+			"playUrl": "parse:è‡ªåŠ¨è§£æ",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
 			"categories": [
-				"¹ú²ú¾ç",
-				"¸ÛÌ¨¾ç",
-				"ÈÕº«¾ç",
-				"Å·ÃÀ¾ç",
-				"×ÛÒÕ",
-				"¶¯Âş",
-				"¶¯×÷Æ¬",
-				"Ï²¾çÆ¬",
-				"°®ÇéÆ¬",
-				"¿Æ»ÃÆ¬",
-				"¿Ö²ÀÆ¬",
-				"¾çÇéÆ¬",
-				"Õ½ÕùÆ¬",
-				"×ÛÒÕÆµµÀ"
+				"å›½äº§å‰§",
+				"æ¸¯å°å‰§",
+				"æ—¥éŸ©å‰§",
+				"æ¬§ç¾å‰§",
+				"ç»¼è‰º",
+				"åŠ¨æ¼«",
+				"åŠ¨ä½œç‰‡",
+				"å–œå‰§ç‰‡",
+				"çˆ±æƒ…ç‰‡",
+				"ç§‘å¹»ç‰‡",
+				"ææ€–ç‰‡",
+				"å‰§æƒ…ç‰‡",
+				"æˆ˜äº‰ç‰‡",
+				"ç»¼è‰ºé¢‘é“"
 			]
 		},
 		{
-			"key": "8090²É¼¯",
-			"name": "8090£¨²É¼¯£©",
+			"key": "8090é‡‡é›†",
+			"name": "8090ï¼ˆé‡‡é›†ï¼‰",
 			"type": 0,
 			"api": "http://zy.yilans.net:8090/api.php/provide/vod/at/xml",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
 			"categories": [
-				"¶¯×÷Æ¬",
-				"Ï²¾çÆ¬",
-				"°®ÇéÆ¬",
-				"¿Æ»ÃÆ¬",
-				"¿Ö²ÀÆ¬",
-				"¾çÇéÆ¬",
-				"Õ½ÕùÆ¬",
-				"¹ú²ú¾ç",
-				"¸ÛÌ¨¾ç",
-				"ÈÕº«¾ç",
-				"Å·ÃÀ¾ç",
-				"¾ªã¤Æ¬",
-				"Ä§»ÃÆ¬",
-				"Ã°ÏÕÆ¬",
-				"ĞüÒÉÆ¬",
-				"¼ÍÂ¼Æ¬",
-				"·¸×ïÆ¬",
-				"Î¢µçÓ°",
-				"ÆäËûÆ¬",
-				"¶¯»­Æ¬"
+				"åŠ¨ä½œç‰‡",
+				"å–œå‰§ç‰‡",
+				"çˆ±æƒ…ç‰‡",
+				"ç§‘å¹»ç‰‡",
+				"ææ€–ç‰‡",
+				"å‰§æƒ…ç‰‡",
+				"æˆ˜äº‰ç‰‡",
+				"å›½äº§å‰§",
+				"æ¸¯å°å‰§",
+				"æ—¥éŸ©å‰§",
+				"æ¬§ç¾å‰§",
+				"æƒŠæ‚šç‰‡",
+				"é­”å¹»ç‰‡",
+				"å†’é™©ç‰‡",
+				"æ‚¬ç–‘ç‰‡",
+				"çºªå½•ç‰‡",
+				"çŠ¯ç½ªç‰‡",
+				"å¾®ç”µå½±",
+				"å…¶ä»–ç‰‡",
+				"åŠ¨ç”»ç‰‡"
 			]
 		},
 		{
-			"key": "ÌìÌÃ²É¼¯",
-			"name": "ÌìÌÃ£¨²É¼¯£©",
+			"key": "å¤©å ‚é‡‡é›†",
+			"name": "å¤©å ‚ï¼ˆé‡‡é›†ï¼‰",
 			"type": 0,
 			"api": "http://vipmv.cc/api.php/provide/vod/at/xml",
 			"searchable": 1,
@@ -307,8 +307,8 @@
 			"filterable": 0
 		},
 		{
-			"key": "Æ»¹û²É¼¯",
-			"name": "Æ»¹û£¨²É¼¯£©",
+			"key": "è‹¹æœé‡‡é›†",
+			"name": "è‹¹æœï¼ˆé‡‡é›†ï¼‰",
 			"type": 0,
 			"api": "http://107.150.5.146:39000/maccms10-main/api.php/provide/vod/at/xml",
 			"searchable": 1,
@@ -331,12 +331,12 @@
 	],
 	"parses": [
 		{
-			"name": "½âÎö¾ÛºÏ",
+			"name": "è§£æèšåˆ",
 			"type": 3,
 			"url": "Demo"
 		},
 		{
-			"name": "·ÉÑï",
+			"name": "é£æ‰¬",
 			"type": 0,
 			"url": "http://jx.gkkgj.cn/feiyang/analysis.php?v=",
 			"ext": {
@@ -352,7 +352,7 @@
 			}
 		},
 		{
-			"name": "½­ºş",
+			"name": "æ±Ÿæ¹–",
 			"type": 1,
 			"url": "http://jx.vipmv.co/?url=",
 			"ext": {
@@ -369,7 +369,7 @@
 			}
 		},
 		{
-			"name": "·ö·ç",
+			"name": "æ‰¶é£",
 			"type": 1,
 			"url": "https://vip.byteamone.cn/api/?key=FOWGxF7kZJ51owjTTW&url=",
 			"ext": {
@@ -407,7 +407,7 @@
 			}
 		},
 		{
-			"name": "ĞÖµÜ",
+			"name": "å…„å¼Ÿ",
 			"type": 1,
 			"url": "http://ffjx.zjapp.cc/api/?key=iwtk5D03E323iLVAXx&url=",
 			"ext": {
@@ -424,7 +424,7 @@
 			}
 		},
 		{
-			"name": "×ó°¶",
+			"name": "å·¦å²¸",
 			"type": 1,
 			"url": "http://110.42.2.115:880/analysis/json/?uid=2233&my=eginqstBCJMNSUX689&url=",
 			"ext": {
@@ -441,7 +441,7 @@
 			}
 		},
 		{
-			"name": "³¾ÑÌ",
+			"name": "å°˜çƒŸ",
 			"type": 1,
 			"url": "http://jifei.mrcy0.com/home/api?type=ys&uid=2276830&key=defhlprzAMSTXZ0567&url=",
 			"ext": {
@@ -455,7 +455,7 @@
 			}
 		},
 		{
-			"name": "ßÏ°È",
+			"name": "å‘¦å­",
 			"type": 1,
 			"url": "https://api.m3u8.tv:5678/home/api?type=ys&uid=12185285&key=ijkluxAELMRUWXY279&url=",
 			"ext": {
@@ -471,7 +471,7 @@
 			}
 		},
 		{
-			"name": "±Ø³É",
+			"name": "å¿…æˆ",
 			"type": 1,
 			"url": " https://jisu.rongxingvr.top/api/?key=rCMmoKD0H0ShJ00u2f&url=",
 			"ext": {
@@ -487,7 +487,7 @@
 			}
 		},
 		{
-			"name": "Ü°Ïã",
+			"name": "é¦¨é¦™",
 			"type": 1,
 			"url": "https://one.qd234.cn/api/?key=tP8MTWZzft2P4Oevn9&url=",
 			"ext": {
@@ -504,7 +504,7 @@
 			}
 		},
 		{
-			"name": "¼Î½±",
+			"name": "å˜‰å¥–",
 			"type": 1,
 			"url": "http://27.124.4.42:4567/jhjson/ceshi.php?url=",
 			"ext": {
@@ -521,7 +521,7 @@
 			}
 		},
 		{
-			"name": "²èÓï",
+			"name": "èŒ¶è¯­",
 			"type": 1,
 			"url": "http://chayu.mmhkj.xyz/home/api?type=ys&uid=2922204&key=ajostvwBHIJKPTXY57&url=",
 			"ext": {
@@ -538,7 +538,7 @@
 			}
 		},
 		{
-			"name": "öÎ¸ç",
+			"name": "é‘«å“¥",
 			"type": 1,
 			"url": "http://jiexi.mmhkj.xyz/home/api?type=ys&uid=4187535&key=enpstuBEJKLNPUXZ19&url=",
 			"ext": {
@@ -572,7 +572,7 @@
 	],
 	"ijk": [
 		{
-			"group": "Èí½âÂë",
+			"group": "è½¯è§£ç ",
 			"options": [
 				{
 					"category": 4,
@@ -652,7 +652,7 @@
 			]
 		},
 		{
-			"group": "Ó²½âÂë",
+			"group": "ç¡¬è§£ç ",
 			"options": [
 				{
 					"category": 4,
@@ -831,5 +831,7 @@
 		"cms.qdwght.com"
 	],
 	"wallpaper": "https://api.ixiaowai.cn/gqapi/gqapi.php",
-	"spider": "https://yiuyiu1.coding.net/p/yiuyiu/d/yyyy/git/raw/master/custom_spider.jar"
+	//"spider": "https://yiuyiu1.coding.net/p/yiuyiu/d/yyyy/git/raw/master/custom_spider.jar"
+	"spider": "https://github.com/zjzyer/mao/blob/main/m2.jar"
+	
 }
