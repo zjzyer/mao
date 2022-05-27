@@ -831,7 +831,7 @@
 		"cms.qdwght.com"
 	],
 	"wallpaper": "https://api.ixiaowai.cn/gqapi/gqapi.php",
-	"spider": "https://yiuyiu1.coding.net/p/yiuyiu/d/yyyy/git/raw/master/custom_spider.jar"
-	//"spider": "https://github.com/zjzyer/mao/raw/main/m.jar"
+	//"spider": "https://yiuyiu1.coding.net/p/yiuyiu/d/yyyy/git/raw/master/custom_spider.jar"
+	"spider": "https://github.com/zjzyer/mao/raw/main/123.jar"
 	
 }
